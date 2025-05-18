@@ -1,3 +1,9 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Built with Firebase](https://img.shields.io/badge/built%20with-Firebase-orange)
+![Status](https://img.shields.io/badge/status-Prototype-yellow)
+
+
+
 # naija-cv-pro
 AI POWERED RESUME BUILDER BY KALAMBAINA
 # NaijaCV Pro – AI-Powered CV Builder for Nigerians
