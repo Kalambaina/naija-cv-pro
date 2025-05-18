@@ -1,0 +1,7 @@
+node_modules/
+.env
+.firebase/
+.idea/
+.DS_Store
+.vscode/
+*.log
